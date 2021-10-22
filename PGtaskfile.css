@@ -1,0 +1,18 @@
+    body {
+        background-color: rgb(245, 245, 228);
+        font-family: "Lucida Console","courier New", 'Courier New', Courier, monospace;
+    }
+    
+    h1 {
+        color: rgba(31, 96, 150, 0.918);
+        background-color:rgb(224, 226, 240);
+        text-align: center;
+    }
+        
+    p {
+        color: rgba(65, 119, 235, 0.993);
+        font-size: 20px;
+    }
+    ol {
+        color: rgba(67, 157, 231, 0.918);
+    }
